@@ -33,9 +33,8 @@
     mix-blend-mode: screen;
     
     
-    }
-    section img#mountains_front{
-        z-index: 10;
+
+        
     }
     #text{
     position: absolute;
